@@ -1,0 +1,40 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545639654637" stop="1545639654649">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545639654637" status="passed" stop="1545639654646">
+      <name>TestLogin.test_a</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10808-MainThread"/>
+        <label name="host" value="DESKTOP-VHDAF37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545639654647" status="passed" stop="1545639654649">
+      <name>TestLogin.test_b</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10808-MainThread"/>
+        <label name="host" value="DESKTOP-VHDAF37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545639654648" status="passed" stop="1545639654649">
+          <name>测试登录的步骤</name>
+          <title>测试登录的步骤</title>
+          <attachments>
+            <attachment source="c8f1a9eb-c2ca-49ce-acba-db4ca0e8339d-attachment.txt" title="描述1账号" type="text/plain"/>
+            <attachment source="f7b6a45f-ddaa-46cf-8981-fb4cb4e98b93-attachment.txt" title="描述2密码" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

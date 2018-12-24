@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-VHDAF37",
+    "children" : [ {
+      "name" : "10808-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_a",
+        "uid" : "375862d21ecd0a19",
+        "parentUid" : "a92b193ccfd4d65f0e99d3f753d62cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545639654637,
+          "stop" : 1545639654646,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_b",
+        "uid" : "a3ace9ef30e8ca5a",
+        "parentUid" : "a92b193ccfd4d65f0e99d3f753d62cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545639654647,
+          "stop" : 1545639654649,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a92b193ccfd4d65f0e99d3f753d62cb9"
+    } ],
+    "uid" : "681b99ccef37f9410051510f2a3722af"
+  } ]
+}

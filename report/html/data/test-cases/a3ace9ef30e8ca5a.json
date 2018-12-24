@@ -1,0 +1,97 @@
+{
+  "uid" : "a3ace9ef30e8ca5a",
+  "name" : "TestLogin.test_b",
+  "fullName" : "test_login.TestLogin.test_b",
+  "historyId" : "acbf2ecfcc07620f0df3eb3f4c6e1518",
+  "time" : {
+    "start" : 1545639654647,
+    "stop" : 1545639654649,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试登录的步骤",
+      "time" : {
+        "start" : 1545639654648,
+        "stop" : 1545639654649,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7278a5ef5b88d601",
+        "name" : "描述1账号",
+        "source" : "7278a5ef5b88d601.txt",
+        "type" : "text/plain",
+        "size" : 15
+      }, {
+        "uid" : "9131cfd2d4a65b65",
+        "name" : "描述2密码",
+        "source" : "9131cfd2d4a65b65.txt",
+        "type" : "text/plain",
+        "size" : 15
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VHDAF37"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "10808-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_b"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3ace9ef30e8ca5a.json",
+  "parameterValues" : [ ]
+}
